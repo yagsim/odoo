@@ -7,7 +7,7 @@ recogeremos el environment de postgres con el POSTGRES_DB,USER Y PASSWORD junto 
 Puede haber un fallo si el puerto de postgres esta ocupado:
 
 + ¿Que ocurre si en el ordenador local el purto 5432 (postgres) esta ocupado? 
- '\n' Para ello tendremos que ir a la terminal y tendremos que usar el service postgres stop
+ Para ello tendremos que ir a la terminal y tendremos que usar el service postgres stop
 
 # Paso 2 .Configuración de odoo:
 - La creación de odoo sera igual que la de postgres recogiendo el compose en docker Hub donde recogeremos la imagen de la web, le daremos los puertos y el environment,
