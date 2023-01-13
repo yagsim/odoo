@@ -1,0 +1,11 @@
+version: '3.1'
+services:
+  mydb:
+    container_name: dam_odoo
+    image: postgres:13
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_PASSWORD=odoo
+      - POSTGRES_USER=odoo
+    ports:
+      - "5432:5432"
