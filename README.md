@@ -22,6 +22,7 @@ y se realizara la conexión.
 
 ![En azul el enlace con docker y en rojo el enlace con Postgres](/images/ejemplo.jpg)
 
+En azul el enlace con docker y en rojo el enlace con Postgres
 
 
 
