@@ -20,6 +20,8 @@ Por otra parte esta el enlace con la base de datos en la parte derecha otro apar
 se abrira una ventana donde pondremos nuestro user ,password y los puertos,probaremos la conexión si da un fallo descargamos lo que manda ,comprobamos que la conexión este aceptada ,le daremos a apply 
 y se realizara la conexión.
 
+![En azul el enlace con docker y en rojo el enlace con Postgres](/images/ejemplo.jpg)
+
 
 
 
